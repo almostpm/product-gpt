@@ -1,0 +1,12 @@
+venv/
+.env
+.env.query
+.env.local
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
+data/chroma_db/          # Add this if not there

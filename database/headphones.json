@@ -1,0 +1,167 @@
+[
+  {
+    "brand": "Sony",
+    "model": "WH-CH720N",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 35,
+    "driver_size": 40,
+    "price": 12000,
+    "category": "budget"
+  },
+  {
+    "brand": "JBL",
+    "model": "Tune 750TNC",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 30,
+    "driver_size": 40,
+    "price": 11000,
+    "category": "budget"
+  },
+  {
+    "brand": "Sennheiser",
+    "model": "HD 450SE",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 25,
+    "driver_size": 32,
+    "price": 9500,
+    "category": "budget"
+  },
+  {
+    "brand": "Apple",
+    "model": "AirPods Pro",
+    "type": "in-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 6,
+    "driver_size": 8.8,
+    "price": 26000,
+    "category": "audiophile"
+  },
+  {
+    "brand": "Sony",
+    "model": "WF-1000XM5",
+    "type": "earbuds",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 12,
+    "driver_size": 8.6,
+    "price": 24000,
+    "category": "audiophile"
+  },
+  {
+    "brand": "Bose",
+    "model": "QuietComfort 45",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 24,
+    "driver_size": 40,
+    "price": 30000,
+    "category": "audiophile"
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Buds2 Pro",
+    "type": "earbuds",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 8,
+    "driver_size": 6.5,
+    "price": 13000,
+    "category": "gaming"
+  },
+  {
+    "brand": "Beats",
+    "model": "Fit Pro",
+    "type": "earbuds",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 8,
+    "driver_size": 5.5,
+    "price": 21000,
+    "category": "gaming"
+  },
+  {
+    "brand": "Jabra",
+    "model": "Elite Active 75t",
+    "type": "earbuds",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 7.5,
+    "driver_size": 6.8,
+    "price": 16000,
+    "category": "workout"
+  },
+  {
+    "brand": "Sony",
+    "model": "WH-XB910N",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 24,
+    "driver_size": 40,
+    "price": 18000,
+    "category": "gaming"
+  },
+  {
+    "brand": "Skullcandy",
+    "model": "Push Ultra",
+    "type": "earbuds",
+    "connectivity": "wireless",
+    "anc": false,
+    "battery": 7,
+    "driver_size": 6,
+    "price": 8000,
+    "category": "budget"
+  },
+  {
+    "brand": "Anker",
+    "model": "Soundcore Space Q45",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 50,
+    "driver_size": 40,
+    "price": 16000,
+    "category": "budget"
+  },
+  {
+    "brand": "JBL",
+    "model": "Reflect Flow Pro",
+    "type": "earbuds",
+    "connectivity": "wireless",
+    "anc": false,
+    "battery": 10,
+    "driver_size": 6.8,
+    "price": 10500,
+    "category": "workout"
+  },
+  {
+    "brand": "Sennheiser",
+    "model": "Momentum 4",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 60,
+    "driver_size": 42,
+    "price": 28000,
+    "category": "audiophile"
+  },
+  {
+    "brand": "Apple",
+    "model": "AirPods Max",
+    "type": "over-ear",
+    "connectivity": "wireless",
+    "anc": true,
+    "battery": 20,
+    "driver_size": 40,
+    "price": 55000,
+    "category": "audiophile"
+  }
+]
